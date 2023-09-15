@@ -1,7 +1,9 @@
 # Smart-pointers
 
-1.Unique Pointer
+1.Auto Pointers
 
-2.Shared Pointers
+2.Unique Pointer
 
-3.Weak Pointer
+3.Shared Pointers
+
+4.Weak Pointer
